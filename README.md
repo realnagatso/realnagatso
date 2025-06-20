@@ -1,4 +1,4 @@
-<h2 align="left">Rela Nagatso Bio</h2>
+<h2 align="left">Real Nagatso Bio</h2>
 
 ###
 
